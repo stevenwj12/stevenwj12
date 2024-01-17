@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Full-Stack Web Development
 - 🌱 I’m currently learning Mobile Apps Development, Deep Learning, and artificial intelligence stuff.
 
-[![Steven's GitHub stats](https://steven-github-readme-stats.vercel.app/api?username=stevenwj12)](https://github.com/anuraghazra/github-readme-stats)
+[![Steven's GitHub stats](https://steven-github-readme-stats.vercel.app/api?username=stevenwj12)](https://github.com/stevenwj12//github-readme-stats)
 
 
 <!--

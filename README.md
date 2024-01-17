@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Steven Here
+
+- 🔭 I’m currently working on Full-Stack Web Development
+- 🌱 I’m currently learning Mobile Apps Development, Deep Learning, and artificial intelligence stuff.
+
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenwj12)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **stevenwj12/stevenwj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

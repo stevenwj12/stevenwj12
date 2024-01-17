@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Mobile Apps Development, Deep Learning, and artificial intelligence stuff.
 
 [![Steven's GitHub stats](https://steven-github-readme-stats.vercel.app/api?username=stevenwj12&show_icons=true&theme=transparent)](https://github.com/stevenwj12//github-readme-stats)
-[![Most Used Languages](https://steven-github-readme-stats.vercel.app/api/top-langs/?username=stevenwj12&layout=compact)](https://github.com/stevenwj12/github-readme-stats)
+[![Most Used Languages](https://steven-github-readme-stats.vercel.app/api/top-langs/?username=stevenwj12&layout=compact&show_icons=true&theme=transparent)](https://github.com/stevenwj12/github-readme-stats)
 
 <!--
 **stevenwj12/stevenwj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
